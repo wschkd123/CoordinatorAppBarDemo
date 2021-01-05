@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CoordinatorLayoutDemo.iml" filepath="$PROJECT_DIR$/CoordinatorLayoutDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CoordinatorAppBarDemo.iml" filepath="$PROJECT_DIR$/.idea/CoordinatorAppBarDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CoordinatorAppBarDemo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CoordinatorAppBarDemo.app.iml" />
     </modules>
   </component>
 </project>
